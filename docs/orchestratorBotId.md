@@ -1,10 +1,4 @@
-//app.orchestratorBotId
-## Input Parameters
-1. None
-
-​
-## Output Parameters
-1. returns the orchestrator bot ID if orchestrator has been assigned to the bot, else undefined
+app.orchestratorBotId() returns the orchestrator bot ID if orchestrator has been assigned to the bot, else undefined
 ​
 ## Examples
 ​
